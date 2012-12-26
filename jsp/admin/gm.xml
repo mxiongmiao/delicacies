@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gm>
+	<token>ZWqCeLc6</token>
+	<allowIp>
+		<ip>192.168.0.94</ip>
+		<ip>192.168.0.81</ip>
+	</allowIp>
+</gm>

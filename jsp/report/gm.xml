@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- <GM logPath="/data/5alog_data/x{v}/log/"> -->
+<GM logPath="E:/5alog_data/x{v}/log/">
+<!-- <GM logPath="E:/5alog_data/x33/data/5alog_data/x{v}/log/"> -->	
+	<partners>
+		<partner code="qq">
+			<service v="05" name="腾讯1,2区"/>
+			<service v="09" name="腾讯3-6区"/>
+			<service v="17" name="腾讯7-10区"/>
+			<service v="21" name="腾讯11-14区"/>
+			<service v="25" name="腾讯15-18区"/>
+			<service v="40" name="腾讯19,20,PK区"/>
+			<service v="42" name="腾讯21,22区"/>
+			<service v="44" name="腾讯23,24区"/>
+			<service v="51" name="腾讯25,26区"/>
+			<service v="53" name="腾讯27,28区"/>
+			<service v="60" name="腾讯29区"/>
+			<service v="61" name="腾讯30区"/>
+			<service v="62" name="腾讯31区"/>
+			<service v="63" name="腾讯32区"/>
+			<service v="67" name="腾讯33区"/>
+		</partner>
+		<partner code="mw">
+			<service v="01" name="摩讯区"/>
+			<service v="02" name="新浪区"/>
+		</partner>
+		<partner code="sk">
+			<service v="11" name="斯凯合区"/>
+		</partner>
+		<partner code="uc">
+			<service v="33" name="UC合区"/>
+			<service v="66" name="UC5区"/>
+		</partner>
+		<partner code="rr">
+			<service v="28" name="人人1区"/>
+		</partner>
+		<partner code="pp">
+			<service v="31" name="泡泡合区"/>
+			<service v="65" name="泡泡6区"/>
+		</partner>
+		<partner code="xl">
+			<service v="39" name="手机新浪"/>
+		</partner>
+	</partners>
+	
+	<allowIp>
+		<ip>192.168.0.233</ip>
+		<ip>192.168.0.154</ip>
+		<ip>192.168.0.94</ip>
+	</allowIp>
+	
+	<token>ZWqCeLc6</token>
+</GM>
