@@ -40,5 +40,4 @@ echo 'CLASSPATH=.:$JAVA_HOME/lib/tools.jar:$JAVA_HOME/lib/dt.jar' >> $etcProfile
 echo 'export JAVA_HOME PATH CLASSPATH' >> $etcProfile
 source $etcProfile
 
-echo "finished ! jdk installed to $installDir"
-echo 'reboot to efforce'
+echo "over ! plz reboot!"
