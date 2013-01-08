@@ -2,3 +2,6 @@
 .classpath
 .project
 .settings/
+
+#vim ctags index
+tags

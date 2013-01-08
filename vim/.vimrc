@@ -6,3 +6,5 @@ set smartindent
 set tabstop=4
 set showmatch
 set nohls
+set hlsearch
+set incsearch
